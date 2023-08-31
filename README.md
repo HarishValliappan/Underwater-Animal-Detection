@@ -3,8 +3,8 @@
 Welcome to the repository for the Underwater Animal Detection using YOLOv8 project. This project aims to detect and classify underwater animals using the YOLOv8 object detection algorithm, achieving an impressive accuracy rate of 97.12%(100 epochs). The model is trained to recognize seven distinct classes of underwater creatures: fish, starfish, jellyfish, penguin, puffin, shark, and stingray.
 
 # Screenshots of predicted Images
-![starfish](screenshots/y1.png)
-![Fish](screenshots/y2.png)
+![starfish](screenshots/y1.jpg)
+![Fish](screenshots/y2.jpg)
 
 # Project Overview
 
