@@ -8,8 +8,8 @@ Object detection in underwater environments poses unique challenges due to varyi
 
 Features
 
-1.Utilizes the YOLOv8 architecture for accurate and real-time object detection.
-2.Trained on a diverse dataset of underwater animal images to ensure robustness.
+1.Utilizes the YOLOv8 architecture for accurate and real-time object detection.\
+2.Trained on a diverse dataset of underwater animal images to ensure robustness.\
 3.Achieves an impressive accuracy of 97.12% across seven different animal classes.
 4.The model can be easily extended to include additional classes or adapt to new underwater environments.
 
